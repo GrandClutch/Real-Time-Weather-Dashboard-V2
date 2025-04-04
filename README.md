@@ -1,4 +1,4 @@
-# Weather App
+# Real Time Weather Dashboard with OpenWeatherAPI
 ## Objective
 1. Display current weather in local area
 2. Forecast weather for the next 5 days
